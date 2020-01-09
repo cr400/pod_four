@@ -1,0 +1,22 @@
+{
+  "name": "four",
+  "version": "0.0.1",
+  "summary": "A short description of four.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cr400/pod_four",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cr400": "msicr400@163.com"
+  },
+  "source": {
+    "git": "https://github.com/cr400/pod_four.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "four/Classes/**/*"
+}
